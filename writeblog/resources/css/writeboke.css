@@ -1,0 +1,53 @@
+.InputOne{
+    margin: 10px 0 0 0;
+    float: left;
+    height: 35px;
+    border-radius:5px;
+    border: 1px solid rgb(73, 73, 73); 
+}
+.TextAreaOne{
+    margin: 25px 0 0 0;
+    clear: both;
+}
+.DivTwo{
+    float: right !important;
+    z-index: 100000;
+}
+.ButtonOne{
+    background-color: brown;
+    height: 30px;
+    font-size: 18px;
+    color: cornsilk;
+    border-radius: 5px;
+    margin: 15px 0 0 0;
+    border: 0;
+    float: right !important;
+}
+.ButtonTwo{
+    background-color: rgb(42, 95, 165);
+    height: 30px;
+    font-size: 18px;
+    color: cornsilk;
+    border-radius: 5px;
+    margin: 15px 0 0 5px;
+    border: 0;
+    float: right !important;
+}
+/* .editor{
+    height:400px !important;
+}
+.body{
+    height:470px !important;
+}
+.view{
+    height:400px !important;
+}
+.mditor{
+    height:400px !important;
+} */
+.Number{
+    line-height: 35px;
+    margin: 11px 0 0 10px;
+    font-size: 18px;
+    float: left;
+}
